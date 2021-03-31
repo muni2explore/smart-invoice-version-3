@@ -1,8 +1,6 @@
 # smart-invoice-version-3
 Smart Invoice Version 3 Documentation
 
-- https://infinitbility.com/undefined-variable-timematches-and-etagmatches-cakephp
-- 
 
 Installation Instructions:
 Server minimum requirement:
