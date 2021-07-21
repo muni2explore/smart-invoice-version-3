@@ -1,4 +1,4 @@
-# smart-invoice-version-3
+# Smart Invoice Version 3
 Smart Invoice Version 3 Documentation
 
 
@@ -30,3 +30,7 @@ define('DB_PASSWORD','');
 Now you have done all the changes in order to run application successfully, if you still have any problem let me know 
 
 if you face difficulty, then give me call via Skype muni.a1 ... I will happy to help you.
+
+# Reference for PHP 7.4 Fixes
+
+- https://infinitbility.com/undefined-variable-timematches-and-etagmatches-cakephp/
